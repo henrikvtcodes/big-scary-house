@@ -1,0 +1,2 @@
+# Big Scary House
+Welcome to Big Scary House: I created this because I decided to turn my house into an interactive halloween fixture. This monorepo holds all the code for all the components. BSH is a system to set up a house for various interactive demonstrations.
